@@ -1,0 +1,2 @@
+# McSldWorksAddIn
+Sample SldWorksAddIn
